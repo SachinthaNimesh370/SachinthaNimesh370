@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachintha Nimesh</h1>
-<picture align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 70px ></picture> 
+<picture ><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 70px  align="center"></picture> 
 <h3 align="center">A passionate Computer Engineer Student from Srilanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachinthanimesh370&label=Profile%20views&color=0e75b6&style=flat" alt="sachinthanimesh370" /> </p>
