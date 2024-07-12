@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachintha Nimesh</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
+--------------------------------------------------------------------------
 <div align="center">
   <picture ><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 70px  align="center"></picture> 
 </div>
