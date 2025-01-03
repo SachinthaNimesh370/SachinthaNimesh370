@@ -15,7 +15,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinthanimesh370" alt="sachinthanimesh370" /></a> </p>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
 
-- 🌱 I’m currently learning **Faculty Of Engineering , University Of Jaffna**
+- 🌱 I’m currently learning at **Faculty Of Engineering , University Of Jaffna**
 
 - 📫 How to reach me **Sachinthanimesh370@gmail.com**
 
