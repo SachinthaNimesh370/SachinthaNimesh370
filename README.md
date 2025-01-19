@@ -18,12 +18,12 @@
 - 🌱 I’m currently learning **Java EE & Hibernet**
 
 - 🧑‍🎓 I’m an Undergraduate at **University Of Jaffna**
+  
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 
-- 💬 Ask me about **Java,Spring Boot,React Js,React Native,My SQL**
+- 💬 Ask me about **Java, Spring Boot, React Js, React Native, My SQL**
 
 - 📫 How to reach me **Sachinthanimesh370@gmail.com**
-  
-- ⚡ Fun fact **Call me as **
 
 </td>
 <td width="50%" align="center">
@@ -40,7 +40,7 @@
 
 
 <!--Languages and Tools Section--> 
-<h2 align="center"> 🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ 🛠️ </h2> 
+<h2 align="center"> 🚀 Tᴇᴄʜ Sᴛᴀᴄᴋ 🚀 </h2> 
 <table align="center">
   <td width="50%" align="left">
     <picture>
@@ -95,11 +95,11 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" ">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/SachinthaNimesh370/Smart-Student-Attendance-Backend">
-          <img align="center" width="550" src="https://github-readme-stats.vercel.app/api/pin/?username=sachinthanimesh370&repo=Smart-Student-Attendance-Backend&theme=nightowl&show_owner=true"  />
+    <td width="50%">
+      <h3 align="center"><strong>Mᴏsᴛ Usᴇᴅ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <p align="center" >
+        <a href="https://github.com/sachinthanimesh370">
+          <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sachinthanimesh370&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
         </a>
       </p>
     </td>
@@ -110,7 +110,7 @@
           <img align="center"  src="https://github-contributor-stats.vercel.app/api?username=sachinthanimesh370&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
-    </td>
+    </td>    
   </tr>
 </table>
 <br />
