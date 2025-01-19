@@ -46,19 +46,19 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" ">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/SachinthaNimesh370/Smart-Student-Attendance-Backend.git">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sachinthanimesh370&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/SachinthaNimesh370/Smart-Student-Attendance-Backend">
+          <img align="center" width="550" src="https://github-readme-stats.vercel.app/api/pin/?username=sachinthanimesh370&repo=Smart-Student-Attendance-Backend&theme=nightowl&show_owner=true"  />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
+      <p align="center" >
         <a href="https://github.com/sachinthanimesh370">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sachinthanimesh370&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img align="center"  src="https://github-contributor-stats.vercel.app/api?username=sachinthanimesh370&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
