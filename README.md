@@ -10,6 +10,33 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachinthanimesh370&label=Profile%20views&color=0e75b6&style=flat" alt="sachinthanimesh370" /> </p>
 <br>
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+  
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="https://dev.to/dev_kiran/19-open-source-tools-you-should-bookmark-now-5hc4">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
+  <li><a href="https://dev.to/dev_kiran/automq-a-cloud-native-replacement-of-apache-kafka-59mg">AutoMQ: A Cloud-Native Replacement of Apache Kafka</a></li>
+  <li><a href="https://dev.to/dev_kiran/boost-your-dev-workflow-with-these-top-tools-4k66">🚀Boost Your Dev Workflow with These Top Tools</a></li>
+</ul>
+<br />
+<br />
+<br />
+<br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinthanimesh370" alt="sachinthanimesh370" /></a> </p>
@@ -66,11 +93,13 @@
 </table>
 <br />
 
-| ![Sachintha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinthanimesh370&show_icons=true&theme=tokyonight) | ![Sachintha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachinthanimesh370&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinthanimesh370&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sachinthanimesh370&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinthanimesh370&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=sachinthanimesh370&theme=react-dark&hide_border=true&area=true)
+---
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -91,6 +120,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<!--Dynamic Quote card updated everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
