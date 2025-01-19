@@ -12,7 +12,7 @@
 <br>
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ </h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -22,25 +22,18 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Learning Java EE and Hibernate to deepen my backend development expertise.</li>
+  <li>Exploring advanced Java concepts to enhance my programming skills.</li>
+  <li>Improving my proficiency in React.js and React Native for front-end and mobile app development.</li>
 </ul>
   
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://dev.to/dev_kiran/19-open-source-tools-you-should-bookmark-now-5hc4">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
-  <li><a href="https://dev.to/dev_kiran/automq-a-cloud-native-replacement-of-apache-kafka-59mg">AutoMQ: A Cloud-Native Replacement of Apache Kafka</a></li>
-  <li><a href="https://dev.to/dev_kiran/boost-your-dev-workflow-with-these-top-tools-4k66">🚀Boost Your Dev Workflow with These Top Tools</a></li>
-</ul>
 <br />
 <br />
 <br />
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinthanimesh370" alt="sachinthanimesh370" /></a> </p>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinthanimesh370" alt="sachinthanimesh370" /></a> </p
 
 - 🌱 I’m currently learning at **Faculty Of Engineering , University Of Jaffna**
 
@@ -130,11 +123,40 @@
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
-<h3 align="center">Connect with me:</h3>
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:sachinthanimesh370@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="sachinthanimesh370@gmail.com"" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/sachinthanimesh370" target="_blank">
+<img src="./github.png" width=50 height=50 alt="sachinthanimesh370" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://linkedin.com/in/sachintha nimesh" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+
+</div>
+<br/>
+
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
+
+
+<!--Footer--> 
 <p align="center">
-<a href="https://linkedin.com/in/sachintha nimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachintha nimesh" height="30" width="40" /></a>
-<a href="https://fb.com/sachintha nimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachintha nimesh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sachintha nimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sachintha nimesh" height="30" width="40" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
 
