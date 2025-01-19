@@ -1,8 +1,5 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Sachintha Nimesh</h1>
-
-
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+Computer+Engineer+Student;Competitive+Programmer;Expert+on+Codeforces;Always+learning+new+things"></a>
 </p>
@@ -66,7 +63,8 @@
 <!--Trophies Section-->  
 ---
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinthanimesh370" alt="sachinthanimesh370" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinthanimesh370&theme=flat&margin-w=10" alt="sachinthanimesh370" /></a> </p>
+
 <br />
 <br />
 
