@@ -53,6 +53,8 @@
         <li>Learning Java EE and Hibernate to deepen my backend development expertise.</li>
         <li>Exploring advanced Java concepts to enhance my programming skills.</li>
         <li>Improving my proficiency in React.js and React Native for front-end and mobile app development.</li>
+      </br>
+        <li>[🌐 Visit My Blog](https://www.stacklines.free.nf)</li>
       </ul>
   </td>
 </table>
