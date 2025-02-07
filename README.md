@@ -12,11 +12,13 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Java EE & Hibernet**
+- 👋 Hi there!
 
-- 🧑‍🎓 I’m an Undergraduate at **University Of Jaffna**
-  
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🧑‍🎓 Undergraduate at University of Jaffna
+
+- 🌱 Currently learning Java EE & Hibernate
+
+- 📖 Passionate about continuous learning—every day is an opportunity to grow!
 
 - 💬 Ask me about **Java, Spring Boot, React Js, React Native, My SQL**
 
