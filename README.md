@@ -66,8 +66,13 @@
 
 <!--Trophies Section-->  
 ---
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinthanimesh370&theme=flat&margin-w=10" alt="sachinthanimesh370" /></a> </p>
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sachinthanimesh370&theme=flat&column=7&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+  </a>
+</p>
+
 
 <br />
 <br />
