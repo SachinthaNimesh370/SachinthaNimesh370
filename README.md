@@ -123,6 +123,8 @@
 <br />
 
 ### ✍️ Random Dev Quote
+<a href="https://stardev.io/developers/SachinthaNimesh370"><img alt="Check out SachinthaNimesh370's profile on stardev.io" src="https://stardev.io/developers/SachinthaNimesh370/badge/languages/global.svg" /></a>
+
 
 
 <a href="https://stardev.io/developers/SachinthaNimesh370"><img alt="Check out SachinthaNimesh370's profile on stardev.io" src="https://stardev.io/developers/SachinthaNimesh370/badge/languages/country.svg" /></a>
